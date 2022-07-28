@@ -57,3 +57,8 @@ function(a, b){
     return a + b;
 }
 ```
+
+### Task List
+- [ x ] CSS Concluido.
+- [ ] Integração com Pagamentos.
+- [ ] Sistemas de correção financeira.
