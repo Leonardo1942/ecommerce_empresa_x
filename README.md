@@ -15,3 +15,10 @@ __Home Atualizado__
 
 *Home Alterado* |
 _Home Alterado_
+
+## Linguagens do Projeto
+
+* HTML
+* CSS
+* JAVASCRIPT
+* PHP
