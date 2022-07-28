@@ -22,3 +22,11 @@ _Home Alterado_
 * CSS
 * JAVASCRIPT
 * PHP
+
+## Funcionalidades a desenvolver 
+
+1. Criação de Home
+2. Criação de Layouts dinâmicos.
+3. Criação de videos interativos.
+4. Criação de rodapé estático.
+
