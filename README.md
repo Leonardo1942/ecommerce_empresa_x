@@ -39,3 +39,6 @@ _Home Alterado_
 
 ###### Imagem Externa
 ![Imagem de uma ferrari preta](https://www.sabo.com.br/wp-content/uploads/2021/02/Ferrari-preta.jpg.pagespeed.ce.UqUxas5vaF.jpg)
+
+###### Link
+[Meu Linkedin](https://www.linkedin.com/in/leonardo-holanda-16a654138/)
