@@ -10,8 +10,8 @@ Checkout, Tela de produto, Catálogo, Home com Banner
 
 Melhoria 1, Melhoria 2
 
-**Home Atualizado**
+**Home Atualizado** |
 __Home Atualizado__
 
-*Home Alterado*
+*Home Alterado* |
 _Home Alterado_
