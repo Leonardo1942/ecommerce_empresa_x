@@ -42,3 +42,6 @@ _Home Alterado_
 
 ###### Link
 [Meu Linkedin](https://www.linkedin.com/in/leonardo-holanda-16a654138/)
+
+[https://www.linkedin.com/in/leonardo-holanda-16a654138/](https://www.linkedin.com/in/leonardo-holanda-16a654138/)
+
