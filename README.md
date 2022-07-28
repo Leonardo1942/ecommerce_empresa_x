@@ -26,10 +26,10 @@ _Home Alterado_
 ## Funcionalidades a desenvolver 
 
 1. Criação de Home
- 1. Imagens
- 2. Contato
- 3. Sobre
- 4. Informações Adicionais
+  1. Imagens
+  2. Contato
+  3. Sobre
+  4. Informações Adicionais
 2. Criação de Layouts dinâmicos.
 3. Criação de videos interativos.
 4. Criação de rodapé estático.
