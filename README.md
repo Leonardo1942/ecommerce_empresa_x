@@ -47,3 +47,6 @@ _Home Alterado_
 
 Meu GitHub: https://github.com/Leonardo1942
 
+#### Imagem Linkada
+[![Ferrari](ferrari-458-speciale-blindada-2.jpg)] (https://www.linkedin.com/in/leonardo-holanda-16a654138/)
+
