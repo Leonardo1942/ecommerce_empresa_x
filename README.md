@@ -34,3 +34,5 @@ _Home Alterado_
 3. Criação de videos interativos.
 4. Criação de rodapé estático.
 
+![Imagem de uma ferrari](ferrari-458-speciale-blindada-2.jpg)
+
